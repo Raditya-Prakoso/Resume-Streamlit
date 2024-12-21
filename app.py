@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 def main_page():
-    st.title("Curriculum Vitae")
+    st.title("📑 Curriculum Vitae")
 
     # Foto
     image = Image.open("assets/profile.png")
@@ -89,7 +89,7 @@ def main_page():
     )
 
 def about_page():
-    st.title("⚙️ About Application")
+    st.title("About Application")
     st.write(
         """
         Aplikasi ini dibuat dengan Streamlit untuk menampilkan informasi Curriculum Vitae sebagai pemenuhan tugas Portofolio 5 SanberCode.
