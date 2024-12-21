@@ -7,7 +7,7 @@ def main_page():
     # Foto
     st.subheader("Foto")
     image = Image.open("assets/profile.png")
-    st.image(image, caption="Muhammad Raditya Prakoso", use_column_width=True)
+    st.image(image, caption="Muhammad Raditya Prakoso", width=200)
 
     # Biodata
     st.subheader("Biodata")
