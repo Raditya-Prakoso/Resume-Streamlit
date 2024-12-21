@@ -98,7 +98,7 @@ def about_page():
 
 # Navigasi multipage
 st.sidebar.title("📌 Navigation")
-page = st.sidebar.radio("Options:", ["📑 Curriculum Vitae", "⚙️ About Application"])
+page = st.sidebar.radio("Options:", ["Curriculum Vitae", "⚙️ About Application"])
 
 if page == "Curriculum Vitae":
     main_page()
