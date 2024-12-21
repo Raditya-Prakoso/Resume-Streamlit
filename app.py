@@ -89,7 +89,7 @@ def main_page():
     )
 
 def about_page():
-    st.title("About Application")
+    st.title("⚙️ About Application")
     st.write(
         """
         Aplikasi ini dibuat dengan Streamlit untuk menampilkan informasi Curriculum Vitae sebagai pemenuhan tugas Portofolio 5 SanberCode.
@@ -102,5 +102,5 @@ page = st.sidebar.radio("Options:", ["Curriculum Vitae", "About Application"])
 
 if page == "Curriculum Vitae":
     main_page()
-elif page == "Tentang Aplikasi":
+elif page == "About Application":
     about_page()
