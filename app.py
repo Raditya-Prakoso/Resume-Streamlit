@@ -28,7 +28,7 @@ def main_page():
             2022/2023, and Even Semester 2022/2023 \n
           • Assistant Lecturer for Mechanical Vibration class for Odd Semester 2023/2024 \n
           • Laboratory Assistant for Metrology and Measurement Lab for Even Semester 2022/2023 \n
-          • Laboratory Coordinator for Metrology and Measurement Lab for Odd Semester 2023/2024 and Even Semester 2023/2024\n
+          • Laboratory Coordinator for Metrology and Measurement Lab for Odd Semester 2023/2024 and Even Semester 2023/2024 \n
         - **SMA Negeri 8 Jakarta** - High School Diploma in Natural Science Program (2017-2020)
         """
     )
