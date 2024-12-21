@@ -14,6 +14,7 @@ def main_page():
     st.write (
         """
         **Email:** raditya.prakos@.com
+        \n
         **LinkedIn:** https://www.linkedin.com/in/radityaprakoso/
         **GitHub:** github.com/radityaprakoso
         """
