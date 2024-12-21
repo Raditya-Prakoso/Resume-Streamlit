@@ -10,11 +10,10 @@ def main_page():
 
     # Biodata
     st.subheader("Biodata")
-    st.text("""**Nama:** Muhammad Raditya Prakoso""")
     st.write (
         """
-        **Email:** raditya.prakos@.com
-        \n
+        **Nama:** Muhammad Raditya Prakoso \n
+        **Email:** raditya.prakos@.com \n
         **LinkedIn:** https://www.linkedin.com/in/radityaprakoso/
         **GitHub:** github.com/radityaprakoso
         """
