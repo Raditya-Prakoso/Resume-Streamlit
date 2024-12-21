@@ -5,7 +5,6 @@ def main_page():
     st.title("Curriculum Vitae")
 
     # Foto
-    st.subheader("Foto")
     image = Image.open("assets/profile.png")
     st.image(image, caption="Muhammad Raditya Prakoso", width=200)
 
