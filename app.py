@@ -14,8 +14,8 @@ def main_page():
         """
         **Nama:** Muhammad Raditya Prakoso \n
         **Email:** raditya.prakos@.com \n
-        **LinkedIn:** https://www.linkedin.com/in/radityaprakoso/
-        **GitHub:** github.com/radityaprakoso
+        **LinkedIn:** https://www.linkedin.com/in/radityaprakoso/ \n
+        **GitHub:** https://www.github.com/Raditya-Prakoso
         """
     )
 
@@ -23,12 +23,12 @@ def main_page():
     st.subheader("Education Level")
     st.write(
         """
-        - **Universitas Indonesia** - Undergraduate in Mechanical Engineering (2020-2024)
+        - **Universitas Indonesia** - Undergraduate in Mechanical Engineering (2020-2024) \n
           • Assistant Lecturer for Health, Safety, and Environment (HSE) class for Odd Semester 2021/2022, Even Semester 2021/2022, Odd Semester
-            2022/2023, and Even Semester 2022/2023
-          • Assistant Lecturer for Mechanical Vibration class for Odd Semester 2023/2024
-          • Laboratory Assistant for Metrology and Measurement Lab for Even Semester 2022/2023
-          • Laboratory Coordinator for Metrology and Measurement Lab for Odd Semester 2023/2024 and Even Semester 2023/2024
+            2022/2023, and Even Semester 2022/2023 \n
+          • Assistant Lecturer for Mechanical Vibration class for Odd Semester 2023/2024 \n
+          • Laboratory Assistant for Metrology and Measurement Lab for Even Semester 2022/2023 \n
+          • Laboratory Coordinator for Metrology and Measurement Lab for Odd Semester 2023/2024 and Even Semester 2023/2024\n
         - **SMA Negeri 8 Jakarta** - High School Diploma in Natural Science Program (2017-2020)
         """
     )
