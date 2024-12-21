@@ -6,7 +6,7 @@ def main_page():
 
     # Foto
     st.subheader("Foto")
-    image = Image.open("C:\Users\radit\Documents\Portofolio_SanberCode5\assets\profile.png")
+    image = Image.open("\assets\profile.png")
     st.image(image, caption="Muhammad Raditya Prakoso", use_column_width=True)
 
     # Biodata
